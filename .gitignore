@@ -1,0 +1,9 @@
+astvistor
+cvA1
+labs
+lectures
+**/CMakeLists.txt
+**/.idea
+**/*.zip
+**/cmake-build-debug
+
